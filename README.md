@@ -12,23 +12,17 @@ Le projet est organisé comme suit :
 MDTO/
 │   README.md          # Ce fichier
 │   tree.txt           # Arborescence du projet
-│   
-├───.vscode            # Configuration de l'environnement de développement
-│       settings.json  # Paramètres pour Visual Studio Code
-│       
+│         
 ├───exemple            # Exemples de fichiers Markdown
 │       Lapin.md       # Exemple de fichier Markdown
 │       
 └───src                # Scripts Python
-    │   extract.py     # Script pour extraire des motifs à partir de texte
-    │   file.py        # Utilitaires pour la gestion des fichiers
-    │   formatUnicode.py # Fonctionnalités pour le formatage Unicode
-    │   main.py        # Script principal d'exécution
-    │   
-    └───__pycache__    # Cache des fichiers Python compilés
-            extract.cpython-312.pyc
-            file.cpython-312.pyc
-            formatUnicode.cpython-312.pyc
+      extract.py     # Script pour extraire des motifs à partir de texte
+      file.py        # Utilitaires pour la gestion des fichiers
+      formatUnicode.py # Fonctionnalités pour le formatage Unicode
+      main.py        # Script principal d'exécution
+       
+    
 ```
 
 ## Installation
