@@ -4,6 +4,9 @@
 
 **MDTO** est un projet de traitement de texte qui fournit des outils pour extraire et formater des informations à partir de fichiers texte. Le But c'est de faire la mise ne forme du post LinkedIn et le sauvegarde dans un fichier text.
 
+
+> Ce projet risque de changer c'est a dire que il  peut être modifié à tout moment.Nouvelle fonctionnalité et amélioration de code 
+
 ## Structure du Projet
 
 Le projet est organisé comme suit :
@@ -11,7 +14,6 @@ Le projet est organisé comme suit :
 ```
 MDTO/
 │   README.md          # Ce fichier
-│   tree.txt           # Arborescence du projet
 │         
 ├───exemple            # Exemples de fichiers Markdown
 │       Lapin.md       # Exemple de fichier Markdown
